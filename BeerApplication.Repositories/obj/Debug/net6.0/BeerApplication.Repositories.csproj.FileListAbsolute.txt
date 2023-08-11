@@ -1,0 +1,17 @@
+C:\Users\FDE\source\repos\BeerApplication.API\BeerApplication.Repositories\bin\Debug\net6.0\BeerApplication.Repositories.deps.json
+C:\Users\FDE\source\repos\BeerApplication.API\BeerApplication.Repositories\bin\Debug\net6.0\BeerApplication.Repositories.runtimeconfig.json
+C:\Users\FDE\source\repos\BeerApplication.API\BeerApplication.Repositories\bin\Debug\net6.0\BeerApplication.Repositories.dll
+C:\Users\FDE\source\repos\BeerApplication.API\BeerApplication.Repositories\bin\Debug\net6.0\BeerApplication.Repositories.pdb
+C:\Users\FDE\source\repos\BeerApplication.API\BeerApplication.Repositories\bin\Debug\net6.0\BeerApplication.DataAccess.dll
+C:\Users\FDE\source\repos\BeerApplication.API\BeerApplication.Repositories\bin\Debug\net6.0\BeerApplication.DataAccess.pdb
+C:\Users\FDE\source\repos\BeerApplication.API\BeerApplication.Repositories\obj\Debug\net6.0\BeerApplication.Repositories.csproj.AssemblyReference.cache
+C:\Users\FDE\source\repos\BeerApplication.API\BeerApplication.Repositories\obj\Debug\net6.0\BeerApplication.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FDE\source\repos\BeerApplication.API\BeerApplication.Repositories\obj\Debug\net6.0\BeerApplication.Repositories.AssemblyInfoInputs.cache
+C:\Users\FDE\source\repos\BeerApplication.API\BeerApplication.Repositories\obj\Debug\net6.0\BeerApplication.Repositories.AssemblyInfo.cs
+C:\Users\FDE\source\repos\BeerApplication.API\BeerApplication.Repositories\obj\Debug\net6.0\BeerApplication.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\FDE\source\repos\BeerApplication.API\BeerApplication.Repositories\obj\Debug\net6.0\BeerApplication.Repositories.csproj.CopyComplete
+C:\Users\FDE\source\repos\BeerApplication.API\BeerApplication.Repositories\obj\Debug\net6.0\BeerApplication.Repositories.dll
+C:\Users\FDE\source\repos\BeerApplication.API\BeerApplication.Repositories\obj\Debug\net6.0\refint\BeerApplication.Repositories.dll
+C:\Users\FDE\source\repos\BeerApplication.API\BeerApplication.Repositories\obj\Debug\net6.0\BeerApplication.Repositories.pdb
+C:\Users\FDE\source\repos\BeerApplication.API\BeerApplication.Repositories\obj\Debug\net6.0\BeerApplication.Repositories.genruntimeconfig.cache
+C:\Users\FDE\source\repos\BeerApplication.API\BeerApplication.Repositories\obj\Debug\net6.0\ref\BeerApplication.Repositories.dll

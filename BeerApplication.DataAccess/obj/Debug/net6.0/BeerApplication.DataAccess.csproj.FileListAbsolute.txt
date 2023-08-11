@@ -1,0 +1,14 @@
+C:\Users\FDE\source\repos\BeerApplication.API\BeerApplication.DataAccess\bin\Debug\net6.0\BeerApplication.DataAccess.deps.json
+C:\Users\FDE\source\repos\BeerApplication.API\BeerApplication.DataAccess\bin\Debug\net6.0\BeerApplication.DataAccess.runtimeconfig.json
+C:\Users\FDE\source\repos\BeerApplication.API\BeerApplication.DataAccess\bin\Debug\net6.0\BeerApplication.DataAccess.dll
+C:\Users\FDE\source\repos\BeerApplication.API\BeerApplication.DataAccess\bin\Debug\net6.0\BeerApplication.DataAccess.pdb
+C:\Users\FDE\source\repos\BeerApplication.API\BeerApplication.DataAccess\obj\Debug\net6.0\BeerApplication.DataAccess.csproj.AssemblyReference.cache
+C:\Users\FDE\source\repos\BeerApplication.API\BeerApplication.DataAccess\obj\Debug\net6.0\BeerApplication.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FDE\source\repos\BeerApplication.API\BeerApplication.DataAccess\obj\Debug\net6.0\BeerApplication.DataAccess.AssemblyInfoInputs.cache
+C:\Users\FDE\source\repos\BeerApplication.API\BeerApplication.DataAccess\obj\Debug\net6.0\BeerApplication.DataAccess.AssemblyInfo.cs
+C:\Users\FDE\source\repos\BeerApplication.API\BeerApplication.DataAccess\obj\Debug\net6.0\BeerApplication.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\FDE\source\repos\BeerApplication.API\BeerApplication.DataAccess\obj\Debug\net6.0\BeerApplication.DataAccess.dll
+C:\Users\FDE\source\repos\BeerApplication.API\BeerApplication.DataAccess\obj\Debug\net6.0\refint\BeerApplication.DataAccess.dll
+C:\Users\FDE\source\repos\BeerApplication.API\BeerApplication.DataAccess\obj\Debug\net6.0\BeerApplication.DataAccess.pdb
+C:\Users\FDE\source\repos\BeerApplication.API\BeerApplication.DataAccess\obj\Debug\net6.0\BeerApplication.DataAccess.genruntimeconfig.cache
+C:\Users\FDE\source\repos\BeerApplication.API\BeerApplication.DataAccess\obj\Debug\net6.0\ref\BeerApplication.DataAccess.dll
